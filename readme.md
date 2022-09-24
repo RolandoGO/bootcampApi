@@ -13,3 +13,7 @@ npm install
 ## Run app
 
 npm run start
+
+## Api documentation
+
+https://documenter.getpostman.com/view/23035937/2s83KRhkKK
